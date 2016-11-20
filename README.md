@@ -1,3 +1,4 @@
 # ReduxSimpleStarter
 
-clone repo, npm install, npm run
+clone repo, npm install, npm start
+
