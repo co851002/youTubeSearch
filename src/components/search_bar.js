@@ -1,7 +1,7 @@
 import React from 'react';
 
-const SearcBar () => {
+const SearchBar = () => {
   return <input/>
-}
+};
 
 export default SearchBar;

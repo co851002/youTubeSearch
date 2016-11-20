@@ -6,11 +6,11 @@ import SearchBar from './components/search_bar';
 const API_KEY = 'AIzaSyD5oMB3I18VYgmap1IsGFRgPWJoLrE_log';
 
 const App = () => {
-  return {
+  return (
     <div>
       <SearchBar/>
     </div>
-   }
-  }
+  )
+};
 
-ReactCom.render(<App/>, document.querySelector('.container'))
+ReactDom.render(<App/>, document.querySelector('.container'))
