@@ -12,7 +12,7 @@
     padding: 10px;
     border: 1px solid #ddd;
     border-radius: 4px;
-    font-size: 1.5em;
+    font-size: 1em;
 }
 
 .video-item img{
@@ -21,6 +21,7 @@
 
 .list-group-item{
   cursor: pointer;
+  font-size: 1em;
 }
 
 list-group-item:hover{
