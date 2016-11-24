@@ -12,6 +12,7 @@
     padding: 10px;
     border: 1px solid #ddd;
     border-radius: 4px;
+    font-size: 1.5em;
 }
 
 .video-item img{
@@ -24,4 +25,9 @@
 
 list-group-item:hover{
   background-color: #eee;
+}
+li.list-group-item:hover {
+    background: #cc181e;
+    color: #fff;
+    text-decoration: underline;
 }
