@@ -1,4 +1,6 @@
-# ReduxSimpleStarter
+# YouTube Search app with React
 
-clone repo, npm install, npm start
+1. clone repo
+2. npm install
+3. npm start
 
